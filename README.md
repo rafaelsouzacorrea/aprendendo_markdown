@@ -1,5 +1,4 @@
-# Aprendendo Markdown 
-## Curso em vídeo - Prof. Gustavo Guanabara
+# Testes em Markdown 
 ***
 Lista numerada:
 1. hoje é domingo
